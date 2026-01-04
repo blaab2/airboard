@@ -1,0 +1,6 @@
+[submodule "kicad_templates"]
+	path = kicad_templates
+	url = https://github.com/AislerHQ/kicad_templates.git
+[submodule "kicad_project/airboard/libs/wurth/KiCad-Library"]
+	path = kicad_project/airboard/libs/wurth/KiCad-Library
+	url = https://github.com/WurthElektronik/KiCad-Library.git
