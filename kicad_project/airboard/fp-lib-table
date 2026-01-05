@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Resistor_SMD_Wurth")(type "KiCad")(uri "${KIPRJMOD}/libs/wurth/KiCad-Library/footprints/Resistor_SMD_Wurth.pretty")(options "")(descr ""))
+  (lib (name "Capacitor_SMD_Wurth")(type "KiCad")(uri "${KIPRJMOD}/libs/wurth/KiCad-Library/footprints/Capacitor_SMD_Wurth.pretty")(options "")(descr ""))
+  (lib (name "Eagle_WR-USB (rev25c)")(type "Eagle")(uri "${KIPRJMOD}/libs/wurth/Eagle_WR-USB (rev25c).lbr")(options "")(descr ""))
+  (lib (name "WE-TVS-SS_DFN1210-6L_824012823")(type "KiCad")(uri "${KIPRJMOD}/libs/wurth/WE-TVS-SS_DFN1210-6L_824012823")(options "")(descr ""))
+  (lib (name "DPS368")(type "KiCad")(uri "${KIPRJMOD}/libs/infineon/infineon-pcb-footprints-and-symbols-dps368-pressure-sensors-for-iot-kicad-pcbdesigndata-en")(options "")(descr ""))
+)

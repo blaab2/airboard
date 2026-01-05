@@ -1,0 +1,7 @@
+{
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Use conventional commits format. Start with a type (feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert), optionally followed by a scope in parentheses, then a colon and space, followed by a short description in imperative mood. Examples: 'feat: add user authentication', 'fix(api): resolve timeout issue', 'docs: update README with setup instructions'"
+    }
+  ]
+}

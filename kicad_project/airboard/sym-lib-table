@@ -1,4 +1,7 @@
 (sym_lib_table
   (version 7)
   (lib (name "Resistor_Wurth_WRIS-RSKS")(type "KiCad")(uri "${KIPRJMOD}/libs/wurth/KiCad-Library/symbols/Resistor_Wurth_WRIS-RSKS.kicad_sym")(options "")(descr ""))
+  (lib (name "Capacitor_Wurth_WCAP-CSGP")(type "KiCad")(uri "${KIPRJMOD}/libs/wurth/KiCad-Library/symbols/Capacitor_Wurth_WCAP-CSGP.kicad_sym")(options "")(descr ""))
+  (lib (name "WE-TVS-SS_DFN1210-6L_824012823")(type "KiCad")(uri "${KIPRJMOD}/libs/wurth/WE-TVS-SS_DFN1210-6L_824012823/WE-TVS-SS_DFN1210-6L_824012823.kicad_sym")(options "")(descr ""))
+  (lib (name "DPS368")(type "KiCad")(uri "${KIPRJMOD}/libs/infineon/infineon-pcb-footprints-and-symbols-dps368-pressure-sensors-for-iot-kicad-pcbdesigndata-en/DPS368.kicad_sym")(options "")(descr ""))
 )
