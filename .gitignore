@@ -29,3 +29,4 @@ fp-info-cache
 **/*-backups/*.zip
 # Local project settings
 *.kicad_prl
+kicad_project/airboard/jlcpcb/
